@@ -4,7 +4,7 @@
 <img src="https://media3.giphy.com/media/TV81wZQA4zcc4YTNfC/giphy.gif"> 
   </br>
     </br>
-I'm Karol, a software engineer student on <a href="https://wwsi.edu.pl/">WWSI University</a> Poland. 
+I'm Karol, a software engineer student at <a href="https://wwsi.edu.pl/">WWSI University</a> Poland. 
 </p>
 
 <p  align="center">
