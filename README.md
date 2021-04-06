@@ -31,10 +31,10 @@ My Tech Stack:
 My favourite tools:
 </h3>
 
-![Github](https://img.shields.io/badge/--05122A?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/--05122A?style=flat&logo=vscode)
-![Ubuntu](https://img.shields.io/badge/--05122A?style=flat&logo=ubuntu)
-![Debian](https://img.shields.io/badge/--05122A?style=flat&logo=debian)
+![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=vscode)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)
+![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)
 ![Pi-hole](https://img.shields.io/badge/-Pi_hole-05122A?style=flat&logo=pi-hole)
 ![TrueNAS](https://img.shields.io/badge/-TrueNAS-05122A?style=flat&logo=truenas)
 ![PfSense](https://img.shields.io/badge/-PfSense-05122A?style=flat&logo=pfsense)
