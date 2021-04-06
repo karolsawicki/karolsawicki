@@ -13,18 +13,18 @@ My goal is to become a DevOps engineer that creates high availability systems. T
 <h3 align="center">
 My Tech Stack:
 </h3>
-<a  align="center">
+<br/>
 ![PHP](https://img.icons8.com/color/30/php.png)
 ![WordPress](https://img.icons8.com/color/30/wordpress.png)
-</a>
+
 
 <br/>
 <h3 align="center">
 My favourite tools:
 </h3>
-<a  align="center">
+
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
 ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 ![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)
 ![Debian](https://img.icons8.com/color/30/debian.png)
-</a>
+
