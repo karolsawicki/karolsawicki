@@ -1,16 +1,14 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋</h3>
+![Alt Text]( https://giphy.com/gifs/TV81wZQA4zcc4YTNfC)
+<p align="center">
+I'm Karol, a software engineer student on <a href="https://wwsi.edu.pl/">WWSI University</a> Poland. 
+</p>
 
-<!--
-**karolsawicki/karolsawicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p  align="center">
+My goal is to become a DevOps engineer that creates high availability systems. That’s why I'm learning cyber security, unix systems and database administration.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<h3 align="center">
+My Tech Stack
+</h3>
