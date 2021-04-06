@@ -22,14 +22,9 @@ My Tech Stack:
 ![MYSQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![Microsoft-sql-server](https://img.shields.io/badge/-Microsoft_SQL_Server-05122A?style=flat&logo=microsoft-sql-server)
-
-
-![Proxmox](https://img.shields.io/badge/-Proxmox_VE-05122A?style=flat&logo=proxmox)
-![Vmware](https://img.shields.io/badge/-VMware-05122A?style=flat&logo=vmware)
-
-![Kubernetes](https://img.shields.io/badge/--05122A?style=flat&logo=kubernetes)
-![Php](https://img.shields.io/badge/--05122A?style=flat&logo=php)
-![Wodpress](https://img.shields.io/badge/--05122A?style=flat&logo=wordpress)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
+![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![Wodpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)
 
 <br/>
 <h3 align="center">
@@ -44,3 +39,5 @@ My favourite tools:
 ![TrueNAS](https://img.shields.io/badge/-TrueNAS-05122A?style=flat&logo=truenas)
 ![PfSense](https://img.shields.io/badge/-PfSense-05122A?style=flat&logo=pfsense)
 ![OpenVPN](https://img.shields.io/badge/-OpenVPN-05122A?style=flat&logo=openvpn)
+![Proxmox](https://img.shields.io/badge/-Proxmox_VE-05122A?style=flat&logo=proxmox)
+![Vmware](https://img.shields.io/badge/-VMware-05122A?style=flat&logo=vmware)
