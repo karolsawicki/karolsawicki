@@ -13,7 +13,7 @@ My goal is to become a DevOps engineer that creates high availability systems. T
 <h3 align="center">
 My Tech Stack:
 </h3>
-<br/>
+
 ![Php](https://img.icons8.com/color/30/php.png)
 ![Wodpress](https://img.icons8.com/color/30/wordpress.png)
 
