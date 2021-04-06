@@ -1,6 +1,7 @@
 <h3 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I am Karol and this is my github page!</h3>
-<img src="https://media3.giphy.com/media/TV81wZQA4zcc4YTNfC/giphy.gif" width="100px" align="center"> 
+
 <p align="center">
+<img src="https://media3.giphy.com/media/TV81wZQA4zcc4YTNfC/giphy.gif" align="center"> 
 I'm Karol, a software engineer student on <a href="https://wwsi.edu.pl/">WWSI University</a> Poland. 
 </p>
 
