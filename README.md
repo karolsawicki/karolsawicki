@@ -18,13 +18,13 @@ My Tech Stack:
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
-![SQL](https://img.shields.io/badge/-SQL Language-05122A?style=flat&logo=sql)
+![SQL](https://img.shields.io/badge/-SQL_Language-05122A?style=flat&logo=sql)
 ![MYSQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![Microsoft-sql-server](https://img.shields.io/badge/-Microsoft SQL Server-05122A?style=flat&logo=microsoft-sql-server)
+![Microsoft-sql-server](https://img.shields.io/badge/-Microsoft_SQL_Server-05122A?style=flat&logo=microsoft-sql-server)
 
 
-![Proxmox](https://img.shields.io/badge/-Proxmox VE-05122A?style=flat&logo=proxmox)
+![Proxmox](https://img.shields.io/badge/-Proxmox_VE-05122A?style=flat&logo=proxmox)
 ![Vmware](https://img.shields.io/badge/-VMware-05122A?style=flat&logo=vmware)
 
 ![Kubernetes](https://img.shields.io/badge/--05122A?style=flat&logo=kubernetes)
