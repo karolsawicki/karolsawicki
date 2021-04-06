@@ -14,8 +14,22 @@ My goal is to become a DevOps engineer that creates high availability systems. T
 My Tech Stack:
 </h3>
 
-![Php](https://img.icons8.com/color/30/php.png)
-![Wodpress](https://img.icons8.com/color/30/wordpress.png)
+![Python]
+![Django]
+![Flask]
+![Bootstrap]
+![SQL]
+![MYSQL]
+![PostgreSQL]
+![Microsoft-sql-server](https://img.icons8.com/color/40/microsoft-sql-server.png)
+
+![Docker]
+![Proxmox]
+![Vmware]
+![Numpy]
+
+![Php](https://img.icons8.com/color/40/php.png)
+![Wodpress](https://img.icons8.com/color/40/wordpress.png)
 
 <br/>
 <h3 align="center">
