@@ -16,7 +16,6 @@ My Tech Stack:
 <br/>
 ![PHP](https://img.icons8.com/color/30/php.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)
 
-
 <br/>
 <h3 align="center">
 My favourite tools:
