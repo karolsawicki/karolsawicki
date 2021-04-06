@@ -1,5 +1,5 @@
 <h3 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I am Karol and this is my github page!</h3>
-
+  </br>
 <p align="center">
 <img src="https://media3.giphy.com/media/TV81wZQA4zcc4YTNfC/giphy.gif"> 
   </br>
