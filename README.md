@@ -14,7 +14,8 @@ My goal is to become a DevOps engineer that creates high availability systems. T
 My Tech Stack:
 </h3>
 <br/>
-![PHP](https://img.icons8.com/color/30/php.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)
+![Php](https://img.icons8.com/color/30/php.png)
+![Wodpress](https://img.icons8.com/color/30/wordpress.png)
 
 <br/>
 <h3 align="center">
