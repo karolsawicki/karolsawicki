@@ -14,30 +14,33 @@ My goal is to become a DevOps engineer that creates high availability systems. T
 My Tech Stack:
 </h3>
 
-![Python]
-![Django]
-![Flask]
-![Bootstrap]
-![SQL]
-![MYSQL]
-![PostgreSQL]
-![Microsoft-sql-server](https://img.icons8.com/color/40/microsoft-sql-server.png)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![SQL](https://img.shields.io/badge/-SQL-Language-05122A?style=flat&logo=sql)
+![MYSQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Microsoft-sql-server](https://img.shields.io/badge/--05122A?style=flat&logo=microsoft-sql-server)
 
-![Docker]
-![Proxmox]
-![Vmware]
-![Numpy]
 
-![Php](https://img.icons8.com/color/40/php.png)
-![Wodpress](https://img.icons8.com/color/40/wordpress.png)
+![Proxmox](https://img.shields.io/badge/-proxmox-05122A?style=flat&logo=proxmox)
+![Vmware](https://img.shields.io/badge/-vmware-05122A?style=flat&logo=vmware)
+
+![Kubernetes](https://img.shields.io/badge/--05122A?style=flat&logo=kubernetes)
+![Php](https://img.shields.io/badge/--05122A?style=flat&logo=php)
+![Wodpress](https://img.shields.io/badge/--05122A?style=flat&logo=wordpress)
 
 <br/>
 <h3 align="center">
 My favourite tools:
 </h3>
 
-![Github](https://img.icons8.com/material-outlined/30/github.png)
-![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
-![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)
-![Debian](https://img.icons8.com/color/30/debian.png)
-
+![Github](https://img.shields.io/badge/--05122A?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/--05122A?style=flat&logo=vscode)
+![Ubuntu](https://img.shields.io/badge/--05122A?style=flat&logo=ubuntu)
+![Debian](https://img.shields.io/badge/--05122A?style=flat&logo=debian)
+![Pi-hole](https://img.shields.io/badge/-Pi-hole-05122A?style=flat&logo=pi-hole)
+![TrueNAS](https://img.shields.io/badge/-TrueNAS-05122A?style=flat&logo=truenas)
+![PfSense](https://img.shields.io/badge/-PfSense-05122A?style=flat&logo=pfsense)
+![OpenVPN](https://img.shields.io/badge/-OpenVPN-05122A?style=flat&logo=openvpn)
