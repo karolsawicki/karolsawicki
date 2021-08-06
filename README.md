@@ -35,7 +35,7 @@ My favourite tools:
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)
 ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)
-![Windows-Server-2016](https://img.shields.io/badge/-Microsoft_Server-05122A?style=flat&logo=microsoftl-server)
+![Windows-Server-2016](https://img.shields.io/badge/-Windows_Server-05122A?style=flat&logo=windows-server)
 ![Pi-hole](https://img.shields.io/badge/-Pi_hole-05122A?style=flat&logo=pi-hole)
 ![TrueNAS](https://img.shields.io/badge/-TrueNAS-05122A?style=flat&logo=truenas)
 ![PfSense](https://img.shields.io/badge/-PfSense-05122A?style=flat&logo=pfsense)
